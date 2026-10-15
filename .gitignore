@@ -1,0 +1,13 @@
+.venv/
+.local/
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+*.pyc
+*.log
+_reference/
+sample_data/
+sample_seed.py
+LEARNING.md
